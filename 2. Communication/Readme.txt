@@ -1,0 +1,1 @@
+Project communication related files such as notes from meetings go here.
